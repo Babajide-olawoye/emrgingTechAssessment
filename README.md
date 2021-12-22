@@ -23,13 +23,21 @@ Lecturer  | Ian McLoughlin
 ## Instructions
 
 #### View and edit notebook online 
-Click logo to run Scikit-learn notebook online.
-[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke2.mybinder.org/user/babajide-olawoy-gtechassessment-zbvsetm3/lab/tree/Scikit-Learn.ipynb)
-
+Click logo to run Scikit-learn  notebook on cloud.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Babajide-olawoye/emrgingTechAssessment/HEAD?labpath=Scikit-Learn.ipynb)
 
 #### View notebook online
 Click logo to view Scikit-learn notebook in a static form.
 [![Binder](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Babajide-olawoye/emrgingTechAssessment/blob/main/Scikit-Learn.ipynb)
+
+
+#### View and edit notebook online 
+Click logo to run Quantum-deutsch.ipynb notebook on cloud.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Babajide-olawoye/emrgingTechAssessment/HEAD?labpath=quantum-deutsch.ipynb)
+
+#### View notebook online
+Click logo to view Quantum-deutsch.ipynb notebook in a static form.
+[![Binder](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Babajide-olawoye/emrgingTechAssessment/blob/main/quantum-deutsch.ipynb)
 
 
 #### Cloning this repo
